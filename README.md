@@ -1,4 +1,4 @@
-# forbotten-lands
+# FORBOTTEN LANDS
 
 ## An unofficial Discord bot for TTRPG Forbidden Lands
 
